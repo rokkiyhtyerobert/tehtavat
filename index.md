@@ -29,4 +29,5 @@ Suomen lukuisat järvet, jokisuistot ja rannikon kauniit vesistöt tarjoavat upe
 
 ![Melojat järvellä](https://images.unsplash.com/photo-1620318345665-da9f4c375787?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-Lähde rohkeasti tutkimaan Melonnan Maailmaa ja löydä oma suosikkireittisi vesillä seikkailemiseen. Melonta ei vain virkistä kehoa, vaan myös mieltä, kun pääset irtautumaan arjen kiireistä ja yhdistymään luonnon rauhaan. Tervetuloa mukaan melontaseikkailuun!kiehtoviksi jäälauttojen peittämiksi maisemiksi.
+## Lähde rohkeasti tutkimaan Melonnan Maailmaa ja löydä oma suosikkireittisi vesillä seikkailemiseen.
+Melonta ei vain virkistä kehoa, vaan myös mieltä, kun pääset irtautumaan arjen kiireistä ja yhdistymään luonnon rauhaan. Tervetuloa mukaan melontaseikkailuun!kiehtoviksi jäälauttojen peittämiksi maisemiksi.
