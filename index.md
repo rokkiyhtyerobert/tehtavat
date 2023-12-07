@@ -1,5 +1,3 @@
-# Tutustu Melonnan Maailmaan – Kiehtova Seikkailu Vesillä
-
 Tervetuloa Melonnan Maailmaan, missä virkistävä liikunta kohtaa vesielementin lumon! Melonta on monipuolinen ja hauska ulkoilmaaktiviteetti, joka tarjoaa upeita elämyksiä niin aloittelijoille kuin kokeneemmillekin vesipedoille. Seuraavassa kerromme, mitä melonta oikeastaan on, mitä siihen tarvitaan ja miksi se on loistava tapa viettää aikaa luonnossa.
 
 ## Mikä on melonta?
